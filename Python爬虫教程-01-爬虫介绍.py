@@ -1,7 +1,6 @@
 __author__ = 'Administrator'
 '''爬虫准备工作
-参考资料
-精通Python爬虫框架Scrapy，人民邮电出版社
+
 -
 基础知识
 url, http
